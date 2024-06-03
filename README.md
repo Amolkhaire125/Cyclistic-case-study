@@ -1,1 +1,1 @@
-This has data analysis for hypothetical company name cyclistic.
+Data analysis for hypothetical company name cyclistic.
